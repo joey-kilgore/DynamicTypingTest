@@ -1,0 +1,33 @@
+c:\users\brendan moore\documents\visual studio 2017\Projects\TypingProgramUI\TypingProgramUI\bin\Debug\TypingProgramUI.exe.config
+c:\users\brendan moore\documents\visual studio 2017\Projects\TypingProgramUI\TypingProgramUI\bin\Debug\TypingProgramUI.exe
+c:\users\brendan moore\documents\visual studio 2017\Projects\TypingProgramUI\TypingProgramUI\bin\Debug\TypingProgramUI.pdb
+c:\users\brendan moore\documents\visual studio 2017\Projects\TypingProgramUI\TypingProgramUI\obj\Debug\TypingProgramUI.csprojResolveAssemblyReference.cache
+c:\users\brendan moore\documents\visual studio 2017\Projects\TypingProgramUI\TypingProgramUI\obj\Debug\TypingProgramUI.Properties.Resources.resources
+c:\users\brendan moore\documents\visual studio 2017\Projects\TypingProgramUI\TypingProgramUI\obj\Debug\TypingProgramUI.csproj.GenerateResource.Cache
+c:\users\brendan moore\documents\visual studio 2017\Projects\TypingProgramUI\TypingProgramUI\obj\Debug\TypingProgramUI.exe
+c:\users\brendan moore\documents\visual studio 2017\Projects\TypingProgramUI\TypingProgramUI\obj\Debug\TypingProgramUI.pdb
+c:\users\brendan moore\documents\visual studio 2017\Projects\TypingProgramUI\TypingProgramUI\obj\Debug\TypingProgramUI.OpeningWindow.resources
+c:\users\brendan moore\documents\visual studio 2017\Projects\TypingProgramUI\TypingProgramUI\obj\Debug\TypingProgramUI.TypingWindow.resources
+c:\users\brendan moore\documents\visual studio 2017\Projects\TypingProgramUI\TypingProgramUI\obj\Debug\TypingProgramUI.FinalWindow.resources
+D:\DynamicTypingBrendan\TypingProgramUI\bin\Debug\TypingProgramUI.exe.config
+D:\DynamicTypingBrendan\TypingProgramUI\obj\Debug\TypingProgramUI.exe
+D:\DynamicTypingBrendan\TypingProgramUI\obj\Debug\TypingProgramUI.pdb
+D:\DynamicTypingBrendan\TypingProgramUI\obj\Debug\TypingProgramUI.csprojResolveAssemblyReference.cache
+D:\DynamicTypingBrendan\TypingProgramUI\obj\Debug\TypingProgramUI.FinalWindow.resources
+D:\DynamicTypingBrendan\TypingProgramUI\obj\Debug\TypingProgramUI.OpeningWindow.resources
+D:\DynamicTypingBrendan\TypingProgramUI\obj\Debug\TypingProgramUI.Properties.Resources.resources
+D:\DynamicTypingBrendan\TypingProgramUI\obj\Debug\TypingProgramUI.TypingWindow.resources
+D:\DynamicTypingBrendan\TypingProgramUI\obj\Debug\TypingProgramUI.csproj.GenerateResource.Cache
+D:\DynamicTypingBrendan\TypingProgramUI\bin\Debug\TypingProgramUI.exe
+D:\DynamicTypingBrendan\TypingProgramUI\bin\Debug\TypingProgramUI.pdb
+C:\Users\joeya\Desktop\Programming Files\C#\DynamicTypingBrendan\TypingProgramUI\bin\Debug\TypingProgramUI.exe.config
+C:\Users\joeya\Desktop\Programming Files\C#\DynamicTypingBrendan\TypingProgramUI\bin\Debug\TypingProgramUI.exe
+C:\Users\joeya\Desktop\Programming Files\C#\DynamicTypingBrendan\TypingProgramUI\bin\Debug\TypingProgramUI.pdb
+C:\Users\joeya\Desktop\Programming Files\C#\DynamicTypingBrendan\TypingProgramUI\obj\Debug\TypingProgramUI.csprojResolveAssemblyReference.cache
+C:\Users\joeya\Desktop\Programming Files\C#\DynamicTypingBrendan\TypingProgramUI\obj\Debug\TypingProgramUI.FinalWindow.resources
+C:\Users\joeya\Desktop\Programming Files\C#\DynamicTypingBrendan\TypingProgramUI\obj\Debug\TypingProgramUI.OpeningWindow.resources
+C:\Users\joeya\Desktop\Programming Files\C#\DynamicTypingBrendan\TypingProgramUI\obj\Debug\TypingProgramUI.Properties.Resources.resources
+C:\Users\joeya\Desktop\Programming Files\C#\DynamicTypingBrendan\TypingProgramUI\obj\Debug\TypingProgramUI.TypingWindow.resources
+C:\Users\joeya\Desktop\Programming Files\C#\DynamicTypingBrendan\TypingProgramUI\obj\Debug\TypingProgramUI.csproj.GenerateResource.Cache
+C:\Users\joeya\Desktop\Programming Files\C#\DynamicTypingBrendan\TypingProgramUI\obj\Debug\TypingProgramUI.exe
+C:\Users\joeya\Desktop\Programming Files\C#\DynamicTypingBrendan\TypingProgramUI\obj\Debug\TypingProgramUI.pdb
